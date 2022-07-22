@@ -144,6 +144,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/soupaulogomes/soupaulogomes/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/soupaulogomes/soupaulogomes/blob/output/snake.svg" alt="Snake animation" />
 
 ###
