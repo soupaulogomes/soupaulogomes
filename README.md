@@ -108,9 +108,11 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&username=soupaulogomes" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&username=soupaulogomes" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&custom_title=Minhas Estatísticas&username=soupaulogomes" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&custom_title=O que mais uso&username=soupaulogomes" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -142,6 +144,6 @@
 
 ###
 
-<img src="https://github.com/soupaulogomes/soupaulogomes/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/soupaulogomes/soupaulogomes/blob/output/snake.svg" alt="Snake animation" />
 
 ###
