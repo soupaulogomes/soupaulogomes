@@ -1,8 +1,8 @@
-<h1 align="center">Olá, meu nome é Paulo Henrique! <br>Seja muito bem-vindo ao meu GitHub</h1>
+<h1 align="center">Hello, my name is Paulo Henrique!</h1>
 
 ###
 
-<p align="center">Desenvolvedor Full Stack | Analista de SEO | Designer UX/UI | Especialista VTEX</p>
+<p align="center">WordPress Developer at KoreConX | SEO Analyst | VTEX IO Certified | Swift Developer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Tenho 26 anos, sou formado em Ciência da Computação desde 2018.<br><br>Atualmente trabalho como WebDesigner na criação de site e landing pages direcionados ao segmento de Marketing Digital. Atuo também como designer UX/UI desenvolvendo interfaces interativas com uso de Figma e Photoshop.</p>
+<p align="left">Tenho 27 anos, sou formado em Ciência da Computação desde 2018.<br><br>Atualmente trabalho como WebDesigner na criação de site e landing pages direcionados ao segmento de Marketing Digital. Atuo também como designer UX/UI desenvolvendo interfaces interativas com uso de Figma e Photoshop.</p>
 
 ###
 
