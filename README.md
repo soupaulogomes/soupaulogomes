@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">WordPress Developer at KoreConX | SEO Analyst | VTEX IO Certified | Swift Developer</p>
+<p align="center">WordPress Developer | Front-End Developer | SEO Analyst | VTEX IO Certified | Swift Developer /p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Tenho 27 anos, sou formado em Ciência da Computação desde 2018.<br><br>Atualmente trabalho como WebDesigner na criação de site e landing pages direcionados ao segmento de Marketing Digital. Atuo também como designer UX/UI desenvolvendo interfaces interativas com uso de Figma e Photoshop.</p>
+<p align="left">Tenho 28 anos, sou formado em Ciência da Computação desde 2018.<br><br>Atualmente trabalho como WebDesigner na criação de site e landing pages direcionados ao segmento de Marketing Digital. Atuo também como designer UX/UI desenvolvendo interfaces interativas com uso de Figma e Photoshop.</p>
 
 ###
 
